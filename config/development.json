@@ -1,0 +1,8 @@
+{
+    "name": "Vidly App - Dev",
+    "mail": {
+        "host": "dev-mail-server"
+    },
+    "jwtPrivateKey": "vidly_jwtPrivateKey",
+    "requiresAuth": false
+}

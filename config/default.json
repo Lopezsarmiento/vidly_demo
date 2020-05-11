@@ -1,0 +1,6 @@
+{
+    "name": "Vidly App",
+    "jwtPrivateKey": "vidly_jwtPrivateKey",
+    "requiresAuth": true,
+    "db": "mongodb://localhost/vidly"
+}
